@@ -1,1 +1,3 @@
-https://github.com/IIISatyamRawatIII/ping_pong_game_online/issues/1#issue-941041429
+Online Ping Pong Game Minor 1
+![pingpong](https://user-images.githubusercontent.com/79373620/125131908-2e2fff80-e121-11eb-9e46-a489899267c1.png)
+
